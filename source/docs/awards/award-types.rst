@@ -6,7 +6,11 @@ Award Categories
 Advancing Awards
 ----------------
 
-There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |gm1|. In order of advancement priority, these are:
+There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |gm1|. 
+
+These awards are split into 3 categories: MCI (Machine, Creativity, and Innovation), TA (Team Attribute), and the Think Award. The Inspire Award is the only award that is not in one of these categories.
+
+In order of advancement priority, the awards are:
 
 .. glossary::
 
@@ -15,7 +19,9 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
 
       In order to win the Inspire Award, your team should focus on every other award category, and perform well in the robot game. In the past, the Inspire Award has given much more weight to awards performance, but it seems as if the judges are now taking robot performance into consideration more.
 
-      Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
+      To qualify for the Inspire Award, your team is **required** to be nominated for the Think Award, an MCI award, and a TA award. Often times, the Inspire Award Winner is a top contender in all three categories.
+
+      Depending on the region, the Inspire Award may be a subjective award. However, recently, many regions have adopted to use a "point system" to help determine the Inspire Award winner. This system is based on the teams performance in each of the awards as well as their performance in the robot game.
 
       Official Game Manual Description
          This judged award is given to the team that best embodies the 'challenge' of the *FIRST*\ |reg| Tech Challenge program. The Team that receives this award is a strong ambassador for *FIRST* programs and a role model *FIRST* Team. This Team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other Teams, acting with Gracious Professionalism\ |reg| both on and off the playing field. This Team shares their experiences, enthusiasm and knowledge with other teams, sponsors, their community, and the Judges. Working as a unit, this Team will have shown success in performing the task of designing and building a Robot.
@@ -30,7 +36,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
 
          The Team must be able to share or provide additional detailed information that is helpful for the judges. This could include descriptions of the underlying science and mathematics of the Robot design and game strategies, the designs, redesigns, successes, and opportunities for improvement. A Team is not a candidate for this award if their portfolio does not include engineering content.
 
-   Connect Award
+   Connect Award (TA)
       The Connect Award is one of the two outreach awards. This award is for teams that work with their local STEM community and corporate community. Unfortunately, the line between the Connect and Motivate award can be vague, and judges may not differentiate which outreach falls under which award.
 
       Look at the section about differentiating connect and motivate for more advice on this. For both outreach awards, a Team Plan is required. Refer to the section about writing a team plan for advice.
@@ -42,7 +48,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       Official Game Manual Description
          This judged award is given to the Team that most connects with their local science, technology, engineering, and math (STEM) community. A true *FIRST* team is more than a sum of its parts and recognizes that engaging their local STEM community plays an essential part in their success. The recipient of this award is recognized for helping the community understand *FIRST*, the *FIRST* Tech Challenge, and the Team itself. The Team that wins the Connect Award aggressively seeks and recruits engineers and explores the opportunities available in the world of engineering, science and technology. This Team has a clear Team plan and has identified steps to achieve their goals.
 
-   Innovate Award
+   Innovate Award (MCI)
       The Innovate award is what it sounds like - it's for teams with innovative robots or robot mechanisms.
 
       The Innovate award is mainly for hardware, but some teams have been able to also present software as innovative. Some judges think it's great to present software as part of innovation, but others feel that software only fits under Control.
@@ -54,7 +60,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       Official Game Manual Description
          The Innovate Award celebrates a Team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the Team that has the most innovative and creative Robot design solution to any specific components in the *FIRST* Tech Challenge game. Elements of this award include elegant design, robustness, and 'out of the box' thinking related to design. This award may address the design of the whole Robot or of a sub-assembly attached to the Robot. The creative component must work consistently, but a Robot does not have to work all the time during Matches to be considered for this award. The Team's engineering portfolio must include a summary of the design of the component or components and the Team's Robot to be eligible for this award. Entries must describe how the Team arrived at their solution.
 
-   Control Award (NO LONGER SUBMISSIONS)
+   Control Award (MCI)
       The Control award is meant to recognize a team that has a good software solution to make their robot "intelligent". It's known as the "software award" and is for the team with the best or most innovative software and sensor solution for the game.
 
       Don't be tempted to overlook the control award even though it doesn't advance at most competitions. The control award counts for the inspire award, and strong performance in control counts towards inspire ranking.
@@ -76,7 +82,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       - `11528 Bots of Prey Skystone <https://drive.google.com/file/d/1PEFclEL5nApEOcNh-k4O4m94mGgoa35u/view?usp=sharing>`_
       - `9794 Wizards.exe Skystone <https://drive.google.com/file/d/1YS9scvXvqHFiqJL1beXzEUJmslHtX0IS/view?usp=sharing>`_
 
-   Motivate Award
+   Motivate Award (TA)
       The Motivate Award is one of the two outreach awards. It's for teams that work with their local and *FIRST* community. Unfortunately, the line between the :term:`connect award <Connect Award>` and motivate award can be vague, and most judges don't know how to differentiate which outreach falls under which award.
 
       Look at the section about differentiating connect and motivate for more advice on this. For both outreach awards, a Team Plan is required. Refer to the section about writing a team plan for advice.
@@ -86,7 +92,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       Official Game Manual Description
          This Team embraces the culture of *FIRST* and clearly shows what it means to be a team. This judged award celebrates the Team that represents the essence of the *FIRST* Tech Challenge competition through Gracious Professionalism and general enthusiasm for the overall philosophy of *FIRST* and what it means to be a *FIRST* Tech Challenge Team. This is a Team who makes a collective effort to make *FIRST* known throughout their school and community, and sparks others to embrace the culture of *FIRST*.
 
-   Design Award
+   Design Award (MCI)
       The Design Award is one of the robot awards that primarily focuses on the hardware aspect of the robot. It is for robots that are both functional, aesthetic, and use good design practices, including CAD.
 
       In order to be considered for the Design Award, it's recommended that your team uses CAD and designs the robot before it is built, with engineering portfolio sections about the development of the robot through iterations of the engineering design process. Its important to include CAD screenshots and drawings in your portfolio, and your design should be consistent with any team goals listed.
